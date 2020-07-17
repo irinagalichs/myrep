@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.686,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.846,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Ирина\Documents\Embarcadero\Studio\Projects\SACOD_COURS\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
